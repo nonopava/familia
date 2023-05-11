@@ -3,14 +3,14 @@ body {
      background-color: blanchedalmond;
 }
 
-div {
+/* div {
     width: 90%;
     margin: 0 auto;
-}
+}*/
 
 img {
     width: 50%;
-    height: 500px;
+    height: 30%;
     margin-left: 25%;
    
 }
