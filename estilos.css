@@ -1,0 +1,23 @@
+body {
+     background-image: url(backamor.jpg);
+     background-color: blanchedalmond;
+}
+
+div {
+    width: 800px;
+    margin: 0 auto;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    margin-left: 17%;
+   
+}
+
+h1 {
+    color: #FFF;
+    font-size: 45px;
+    text-align: center;
+}
+
