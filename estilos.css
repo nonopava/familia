@@ -40,3 +40,7 @@ h1 {
           font-size: 150%;
      }
 }
+audio {
+     width: 10%;
+     height: 10%;
+}
