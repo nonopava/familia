@@ -4,8 +4,8 @@ body {
 }
 audio {
      float: left;
-     width: 15%;
-     hight: 50px;
+     width: 20%;
+   
 
 }
  div {
@@ -39,6 +39,9 @@ h1 {
 }
      h1 {
           font-size: 150%;
+     }
+     audio {
+          width: 100%
      }
 }
 
