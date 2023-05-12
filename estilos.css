@@ -5,8 +5,7 @@ body {
 audio {
      float: left;
      width: 20%;
-   
-
+     margin-left: 30%;
 }
  div {
     width: 90%;
@@ -24,6 +23,7 @@ h1 {
     color: #FFF;
     font-style: oblique;
     font-weight: bold;
+    text-align: center
     
 }
 
