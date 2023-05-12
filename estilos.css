@@ -2,9 +2,7 @@ body {
      background-image: url(backamor.jpg);
      background-color: blanchedalmond;
 }
-audio {
-     float: left;
-}
+
 
  div {
     width: 90%;
@@ -38,10 +36,6 @@ h1 {
      h1 {
           font-size: 150%;
       
-     }
-     audio {
-          width: 100%
-          float: none;
-     }
+    
 }
 
