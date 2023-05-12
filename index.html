@@ -8,7 +8,7 @@
     <title>Viva a Família</title>
 </head>
 <body>
-    <audio src="familia.wav" autoplay="autoplay">
+    <audio src="familia.wav" id="music">
     </audio>
     <div>
         <h1>Famíla, Expressão do Amor!</h1>
@@ -16,7 +16,13 @@
     </div>
 
 
-<script src="interacao.js"></script>
+<script>
+    var myMusic = document.getElementById("music");
+    function play() {
+        myMusic.play()
+    }
+    
+</script>
     
 </body>
 </html>
