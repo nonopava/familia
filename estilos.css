@@ -2,6 +2,10 @@ body {
      background-image: url(backamor.jpg);
      background-color: blanchedalmond;
 }
+audio {
+     float: left;
+     width: 30%;
+     hight: 50px;
 
 }
  div {
@@ -23,7 +27,7 @@ h1 {
     text-align: center;
 }
 
-@media only screen and (min-width: 320px) and (max-width: 1080px) {
+@media only screen and (min-width: 320px) and (max-width: 1000px) {
      div {
     width: 80%;
     margin: 0 auto;
