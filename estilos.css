@@ -39,6 +39,7 @@ h1 {
 }
      h1 {
           font-size: 150%;
+          float: left;
      }
      audio {
           width: 100%
