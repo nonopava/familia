@@ -24,7 +24,7 @@ h1 {
     color: #FFF;
     font-style: oblique;
     font-weight: bold;
-    text-align: center;
+    
 }
 
 @media only screen and (min-width: 320px) and (max-width: 1000px) {
@@ -39,7 +39,7 @@ h1 {
 }
      h1 {
           font-size: 150%;
-          float: none;
+      
      }
      audio {
           width: 100%
